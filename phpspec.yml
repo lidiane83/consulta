@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: consulta
+        psr4_prefix: consulta
+        src_path: app
